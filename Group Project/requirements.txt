@@ -1,0 +1,11 @@
+argparse
+opencv-python
+h5py
+matplotlib
+mediapipe
+numpy
+pandas
+pynput
+scikit-learn
+seaborn
+tensorflow[and-cuda]
